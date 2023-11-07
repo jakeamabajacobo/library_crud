@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\bin\Debug\crud.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\bin\Debug\crud.exe
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\bin\Debug\crud.pdb
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\bin\Debug\crud.xml
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.exe
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.xml
+c:\users\admin\documents\visual studio 2015\Projects\crud\crud\obj\Debug\crud.pdb
